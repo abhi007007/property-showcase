@@ -1,0 +1,29 @@
+[  
+  {  
+    "name": "Cozy Apartment",  
+    "location": "Downtown City",  
+    "price": 250000,  
+    "description": "A cozy one-bedroom apartment located in the heart of downtown with modern amenities.",  
+    "amenities": ["Gym", "Pool", "Free WiFi", "24/7 Security"],  
+    "images": ["url_to_image1.jpg", "url_to_image2.jpg"],  
+    "status": "Available"  
+  },  
+  {  
+    "name": "Luxury Villa",  
+    "location": "Suburban Area",  
+    "price": 750000,  
+    "description": "An expansive luxury villa with beautiful garden and swimming pool.",  
+    "amenities": ["Private Pool", "Garden", "Home Theater", "Grill"],  
+    "images": ["url_to_image3.jpg", "url_to_image4.jpg"],  
+    "status": "Sold"  
+  },  
+  {  
+    "name": "Modern Townhouse",  
+    "location": "Uptown",  
+    "price": 400000,  
+    "description": "A stylish townhouse with a rooftop terrace and urban views.",  
+    "amenities": ["Rooftop Deck", "Garage", "Smart Home Features"],  
+    "images": ["url_to_image5.jpg", "url_to_image6.jpg"],  
+    "status": "Available"  
+  }  
+]
